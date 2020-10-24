@@ -1,1 +1,4 @@
-./node_modules
+public/files
+node_modules
+.env
+package-lock.json
